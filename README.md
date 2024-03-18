@@ -12,6 +12,19 @@
 
 - The JOIN keyword
 
+## Getting Started
+
+We currently have four tables:
+
+```
+cats (name)
+toys (name)
+doctors (name, specialty)
+patients (name)
+```
+
+Once you've cloned the repository, you'll be able to open it in sqlite3 with `sqlite3 main.db`.
+
 ## Terminal Output
 
 ```
