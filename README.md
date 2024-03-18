@@ -17,10 +17,10 @@
 We currently have four tables:
 
 ```
-cats (name)
-toys (name)
-doctors (name, specialty)
-patients (name)
+cats (id, name)
+toys (id, name)
+doctors (id, name, specialty)
+patients (id, name)
 ```
 
 Once you've cloned the repository, you'll be able to open it in sqlite3 with `sqlite3 main.db`.
